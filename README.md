@@ -19,7 +19,7 @@ The API is available on Port `3000`.
 
 PostgreSQL was chosen because it is a powerful object-relational database. Although this specific assignment did not require complex data structure hierarchies and relationships, a Course Manager could potentially be a part of a large-scale project with Course types and inheritance, etc.
 
-All PostgreSQL-related code can be found in `project/db`.
+All PostgreSQL-related code can be found in `db/`.
 
 ## LoopBack
 
@@ -27,7 +27,7 @@ LoopBack is an Express-based "Node.js and TypeScript framework for building APIs
 
 This was chosen over something more ubiquitous, like Express, because of its strict typing, due to TypeScript. This typing allows LoopBack to utilize Models for data structure, further ensuring safety in transactions between client, server, and the database.
 
-All LoopBack-related code can be found in `project/aci-learning-exercise`.
+All LoopBack-related code can be found in `aci-learning-exercise/`.
 
 ### Structure
 
