@@ -11,6 +11,8 @@ If you have Docker installed:
 2. `cd` into the `projects` directory
 3. Run `docker-compose up` to run the Docker containers
 
+The API is available on Port `3000`.
+
 # Tech Stack
 
 ## PostgreSQL
