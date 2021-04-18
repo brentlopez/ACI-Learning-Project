@@ -30,10 +30,10 @@ All LoopBack-related code can be found in `project/aci-learning-exercise`.
 ### Structure
 
 The primary areas that were created and modified within the LoopBack project were:
-- `/controllers`
-- `/datasources`
-- `/models`
-- `/repositories`
+- `/src/controllers`
+- `/src/datasources`
+- `/src/models`
+- `/src/repositories`
 
 #### Controllers
 
