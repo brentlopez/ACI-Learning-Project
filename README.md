@@ -8,7 +8,7 @@ This project is composed of two parts:
 
 If you have Docker installed:
 1. Clone this repository
-2. `cd` into the `projects` directory
+2. `cd` into the project directory
 3. Run `docker-compose up` to run the Docker containers
 
 The API is available on Port `3000`.
