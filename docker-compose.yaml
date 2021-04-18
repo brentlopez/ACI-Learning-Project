@@ -1,0 +1,10 @@
+services:
+  db:
+    build: ./db
+    restart: always      
+  web:
+    build: ./aci-learning-exercise
+    ports:
+      - "3000:3000"
+    links:
+      - db
